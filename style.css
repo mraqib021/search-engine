@@ -1,0 +1,159 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+input{
+    padding: 35px;
+    margin-top: 15px;
+    margin-right: 2px;
+    margin-left: 2px;
+    font-size: xx-large;
+    border-radius: 80px;
+    outline-style:none ;
+}
+button{
+    padding: 35px;
+    margin-top: 15px;
+    margin-right: 2px;
+    margin-left: 2px;
+    font-size: xx-large;
+    border-radius: 80px;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+.card1{
+    padding: 15px;
+    border:  2px solid black;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.card2{
+    margin-top: 10px;
+    padding: 15px;
+    border:  2px solid black;
+    border-radius: 10px;
+}
+.card3{
+    margin-top: 10px;
+    padding: 15px;
+    border:  2px solid black;
+    border-radius: 10px;
+}
+.card4{
+    margin-top: 10px;
+    padding: 15px;
+    border:  2px solid black;
+    border-radius: 10px;
+}
+.card5{
+    margin-top: 10px;
+    padding: 15px;
+    border:  2px solid black;
+    border-radius: 10px;
+}
+.card6{
+    margin-top: 10px;
+    padding: 15px;
+    border:  2px solid black;
+    border-radius: 10px;
+}
+.card7{
+    margin-top: 10px;
+    padding: 15px;
+    border:  2px solid black;
+    border-radius: 10px;
+}
+.card8{
+    margin-top: 10px;
+    padding: 15px;
+    border:  2px solid black;
+    border-radius: 10px;
+}
+.card9{
+    margin-top: 10px;
+    padding: 15px;
+    border:  2px solid black;
+    border-radius: 10px;
+}
+.card10{
+    margin-top: 10px;
+    padding: 15px;
+    border:  2px solid black;
+    border-radius: 10px;
+}
+.card11{
+    margin-top: 10px;
+    padding: 15px;
+    border:  2px solid black;
+    border-radius: 10px;
+}
+.card12{
+    margin-top: 10px;
+    padding: 15px;
+    border:  2px solid black;
+    border-radius: 10px;
+}
+.card13{
+    margin-top: 10px;
+    padding: 15px;
+    border:  2px solid black;
+    border-radius: 10px;
+}
+.card14{
+    margin-top: 10px;
+    padding: 15px;
+    border:  2px solid black;
+    border-radius: 10px;
+}
+.card15{
+    margin-top: 10px;
+    padding: 15px;
+    border:  2px solid black;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+}
+.styling{
+    background-color: aquamarine;
+    padding: 30px;
+    width: fit-content;
+    margin: 0 auto;
+    border-top-left-radius: 61px;
+    border-bottom-right-radius: 61px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+
+}
+#product{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.list{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    border-color: 2px solid black;
+    border-radius: 10px;
+}
+.list1{
+
+    font-size: 50px;
+    margin: 0;
+}
+#h2{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
